@@ -1,0 +1,1 @@
+git checkout master \n git fetch origin \n git pull origin master \n git push origin master
